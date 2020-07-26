@@ -39,7 +39,7 @@ Then you can find the response json files from at `/path/to/outputs/` directory.
 
 ## Current Status & Contributing
 
-This is very small piece of utility and not fully tested. We are always open to the contribution in any form.
+This is very small piece of utility and not fully tested. Also, it's currently not directly support the windows machines. For windows users, one can still use WSL or Anaconda to use this. We are always open to the contribution in any form.
 
 ## Authors
 
