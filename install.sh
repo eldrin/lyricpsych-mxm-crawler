@@ -14,3 +14,6 @@ python setup.py install --user
 # remove the repo clone
 cd ../../../
 rm -rf musixmatch-sdk/
+
+# install other requirements
+pip install -r requirements.txt
