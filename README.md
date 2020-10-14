@@ -1,4 +1,4 @@
-# Musixmatch lyrics crawler using Musixmatch API 
+# Musixmatch lyrics client using Musixmatch API 
 
 This small utility is to help who wants to crawl the lyrics data from Musixmatch. It is based on the python API client from [Musixmatch SDK](https://github.com/musixmatch/musixmatch-sdk).
 
