@@ -1,6 +1,6 @@
 # Musixmatch lyrics client using Musixmatch API 
 
-This small utility is to help who wants to crawl the lyrics data from Musixmatch. It is based on the python API client from [Musixmatch SDK](https://github.com/musixmatch/musixmatch-sdk).
+This small utility is to help who wants to collect the lyrics data from Musixmatch. It is based on the python API client from [Musixmatch SDK](https://github.com/musixmatch/musixmatch-sdk).
 
 We strongly recommend to use a virtual environment to use this as the Musixmatch API is only supporting deprecated python versions (2.7 / 3.4).
 
