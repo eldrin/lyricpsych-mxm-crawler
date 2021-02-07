@@ -12,7 +12,7 @@ We also expect the potential user of this utility to already have a `API key` fr
 Installation is straightforward, simply cloning this repo and run the shell script installing the python SDK wrapper for your environment.
 
 ```bash
-(py27_venv)$ git clone lyricpsych-mxm-crawler
+(py27_venv)$ git clone lyricpsych-mxm-client
 (py27_venv)$ sh install.sh
 ```
 
